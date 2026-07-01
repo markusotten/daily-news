@@ -4,7 +4,24 @@ Summary of "What's New" updates published in the last 24 hours (2026-06-30 to 20
 
 ## Citrix
 
-No updates were published in the last 24 hours on docs.citrix.com. The most recent update found is June 26, 2026 (Citrix DaaS Flex).
+### Citrix Secure Access for iOS
+
+Source: [Citrix Secure Access for iOS release notes](https://docs.citrix.com/en-us/citrix-secure-access/citrix-sso-release-notes-ios.html)
+
+- Version 26.05.1 released (Jun 30, 2026), addressing issues to improve overall performance and stability
+
+### Adaptive Authentication service
+
+Source: [Adaptive Authentication release notes](https://docs.citrix.com/en-us/adaptive-authentication/adaptive-authentication-release-notes.html)
+
+- Instances auto-upgraded to build 14.1-72.61 and later, addressing the security vulnerabilities described in security bulletin CTX696604 (30 Jun 2026)
+
+### Citrix Workspace app for ChromeOS
+
+Source: [What's New | Citrix Workspace app for ChromeOS](https://docs.citrix.com/en-us/citrix-workspace-app-for-chrome/whats-new.html)
+
+- Version 2603.1 released (June 30, 2026) with overall performance and stability improvements
+- Fixed an issue where USB redirection stopped working after updating ChromeOS to v148
 
 ## NetScaler
 
